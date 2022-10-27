@@ -139,6 +139,6 @@ You can delete a device that has already been created.
 
 ## Orchestrator
 
-- Copyright 2022 © <a href="https://www.nwu.ac.za/" target="_blank">NWU</a>.
+![orchestrator proof](https://user-images.githubusercontent.com/69342894/198301325-51d9701c-af46-4b19-9616-7847eb246a4c.png)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
